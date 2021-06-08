@@ -1,2 +1,2 @@
 # sukanya358
-project358
+Project CS358
